@@ -1,0 +1,236 @@
+ <Category> Paragon Armors
+            Paragon_6B43_Flora,*,70000,7000
+            Paragon_6B43_Digital_Flora,*,70000,7000
+            Paragon_6B43_Digital_Desert,*,70000,7000
+            Paragon_6B43_Black,*,70000,7000
+            Paragon_6B43_Fatigue,*,70000,7000
+            Paragon_6B43_Blue,*,70000,7000
+            Paragon_6B43_White,*,70000,7000
+            Paragon_6B43_Navy,*,70000,7000
+            Paragon_6B43_Desert,*,70000,7000
+            Paragon_6B43_Black_WL,*,70000,7000
+            Paragon_6B43_WL,*,70000,7000
+
+            Paragon_6B13_Black,*,68000,6800
+            Paragon_6B13_Blue,*,68000,6800
+            Paragon_6B13_Desert,*,68000,6800
+            Paragon_6B13_Green,*,68000,6800
+            Paragon_6B13_White,*,68000,6800
+            Paragon_6B13_Fatigue,*,68000,6800
+            Paragon_6B13_Navy,*,68000,6800
+            Paragon_6B13_Black_WL,*,68000,6800
+            Paragon_6B13_WL,*,68000,6800
+
+            Paragon_TacticalVest_Black,*,65000,6500
+            Paragon_TacticalVest_Blue,*,65000,6500
+            Paragon_TacticalVest_Desert,*,65000,6500
+            Paragon_TacticalVest_Green,*,65000,6500
+            Paragon_TacticalVest_White,*,65000,6500
+            Paragon_TacticalVest_Fatigue,*,65000,6500
+            Paragon_TacticalVest_Navy,*,65000,6500
+            Paragon_TacticalVest_Black_WL,*,65000,6500
+            Paragon_TacticalVest_WL,*,65000,6500
+
+            Paragon_Slick_Black,*,60000,6000
+            Paragon_Slick_Blue,*,60000,6000
+            Paragon_Slick_Desert,*,60000,6000
+            Paragon_Slick_White,*,60000,6000
+            Paragon_Slick_Green,*,60000,6000
+            Paragon_Slick_Fatigue,*,60000,6000
+            Paragon_Slick_Navy,*,60000,6000
+            Paragon_Slick_Black_WL,*,60000,6000
+            Paragon_Slick_WL,*,60000,6000
+
+            Paragon_IOTV_Black,*,50000,5000
+            Paragon_IOTV_Blue,*,50000,5000
+            Paragon_IOTV_Desert,*,50000,5000
+            Paragon_IOTV_Green,*,50000,5000
+            Paragon_IOTV_White,*,50000,5000
+            Paragon_IOTV_Fatigue,*,50000,5000
+            Paragon_IOTV_Navy,*,50000,5000
+            Paragon_IOTV_Black_WL,*,50000,5000
+            Paragon_IOTV_WL,*,50000,5000
+
+            Paragon_DCS_Black,*,40000,4000
+            Paragon_DCS_Blue,*,40000,4000
+            Paragon_DCS_Desert,*,40000,4000
+            Paragon_DCS_Green,*,40000,4000
+            Paragon_DCS_White,*,40000,4000
+            Paragon_DCS_Fatigue,*,40000,4000
+            Paragon_DCS_Navy,*,40000,4000
+            Paragon_DCS_Black_WL,*,40000,4000
+            Paragon_DCS_WL,*,40000,4000
+
+            Paragon_Soviet_Black,*,30000,3000
+            Paragon_Soviet_Desert,*,30000,3000
+            Paragon_Soviet_Green,*,30000,3000
+            Paragon_Soviet_Blue,*,30000,3000
+            Paragon_Soviet_White,*,30000,3000
+            Paragon_Soviet_Fatigue,*,30000,3000
+            Paragon_Soviet_Navy,*,30000,3000
+            Paragon_Soviet_Black_WL,*,30000,3000
+            Paragon_Soviet_WL,*,30000,3000
+
+            Paragon_TacTec_Black,*,25000,2500
+            Paragon_TacTec_Blue,*,25000,2500
+            Paragon_TacTec_Desert,*,25000,2500
+            Paragon_TacTec_White,*,25000,2500
+            Paragon_TacTec_Green,*,25000,2500
+            Paragon_TacTec_Fatigue,*,25000,2500
+            Paragon_TacTec_Navy,*,25000,2500
+            Paragon_TacTec_Black_WL,*,25000,2500
+            Paragon_TacTec_WL,*,25000,2500
+
+            Paragon_DCS_L_Black,*,20000,2000
+            Paragon_DCS_L_Blue,*,20000,2000
+            Paragon_DCS_L_Desert,*,20000,2000
+            Paragon_DCS_L_Green,*,20000,2000
+            Paragon_DCS_L_White,*,20000,2000
+            Paragon_DCS_L_Fatigue,*,20000,2000
+            Paragon_DCS_L_Navy,*,20000,2000
+            Paragon_DCS_L_Black_WL,*,20000,2000
+            Paragon_DCS_L_WL,*,20000,2000
+
+            Paragon_JPC_Black,*,15000,1500
+            Paragon_JPC_Blue,*,15000,1500
+            Paragon_JPC_Desert,*,15000,1500
+            Paragon_JPC_White,*,15000,1500
+            Paragon_JPC_Green,*,15000,1500
+            Paragon_JPC_Fatigue,*,15000,1500
+            Paragon_JPC_Navy,*,15000,1500
+            Paragon_JPC_Black_WL,*,15000,1500
+            Paragon_JPC_WL,*,15000,1500
+
+            Paragon_C6B43_Flora,*,25000,2500
+            Paragon_C6B43_Digital_Flora,*,25000,2500
+            Paragon_C6B43_Digital_Desert,*,25000,2500
+            Paragon_C6B43_Desert,*,25000,2500
+            Paragon_C6B43_Black,*,25000,2500
+            Paragon_C6B43_Fatigue,*,25000,2500
+            Paragon_C6B43_Blue,*,25000,2500
+            Paragon_C6B43_White,*,25000,2500
+            Paragon_C6B43_Navy,*,25000,2500
+            Paragon_C6B43_Black_WL,*,25000,2500
+            Paragon_C6B43_WL,*,25000,2500
+
+            <Category> Paragon Helmets
+            Paragon_Killa_Black,*,40000,10000
+            Paragon_Killa_Blue,*,40000,10000
+            Paragon_Killa_Desert,*,40000,10000
+            Paragon_Killa_Green,*,40000,10000
+            Paragon_Killa_White,*,40000,10000
+
+            Paragon_Ballistic_H_Black,*,35000,9000
+            Paragon_Ballistic_H_Blue,*,35000,9000
+            Paragon_Ballistic_H_Green,*,35000,9000
+            Paragon_Ballistic_H_Desert,*,35000,9000
+            Paragon_Ballistic_H_Grey,*,35000,9000
+
+            Paragon_Altyn_Black,*,30000,8000
+            Paragon_Altyn_Blue,*,30000,8000
+            Paragon_Altyn_Desert,*,30000,8000
+            Paragon_Altyn_Green,*,30000,8000
+            Paragon_Altyn_Fatigue,*,30000,8000
+            Paragon_Altyn_Navy,*,30000,8000
+            Paragon_Altyn_Black_WL,*,30000,8000
+
+            Paragon_Armored_H_Black,*,28000,7000
+            Paragon_Armored_H_Desert,*,28000,7000
+            Paragon_Armored_H_Green,*,28000,7000
+            Paragon_Armored_H_Blue,*,28000,7000
+            Paragon_Armored_H_WL,*,28000,7000
+            Paragon_Armored_H_Fatigue,*,28000,7000
+            Paragon_Armored_H_Navy,*,28000,7000
+            Paragon_Armored_H_Black_WL,*,28000,7000
+
+            Paragon_Space_Helmet_Black,*,26000,6500
+            Paragon_Space_Helmet_Blue,*,26000,6500
+            Paragon_Space_Helmet_Desert,*,26000,6500
+            Paragon_Space_Helmet_Green,*,26000,6500
+            Paragon_Space_Helmet_White,*,26000,6500
+
+            Paragon_Scifi_H_Black,*,25000,6000
+            Paragon_Scifi_H_Blue,*,25000,6000
+            Paragon_Scifi_H_Green,*,25000,6000
+            Paragon_Scifi_H_Desert,*,25000,6000
+            Paragon_Scifi_H_Purple,*,25000,6000
+            Paragon_Scifi_H_Red,*,25000,6000
+
+            Paragon_Combat_H_Black,*,23000,5000
+            Paragon_Combat_H_Blue,*,23000,5000
+            Paragon_Combat_H_Green,*,23000,5000
+            Paragon_Combat_H_Desert,*,23000,5000
+
+            Paragon_Maska_Black,*,20000,5000
+            Paragon_Maska_Blue,*,20000,5000
+            Paragon_Maska_Desert,*,20000,5000
+            Paragon_Maska_Green,*,20000,5000
+            Paragon_Maska_Navy,*,20000,5000
+            Paragon_Maska_Black_WL,*,20000,5000
+
+            Paragon_Mando_Black,*,18000,4000
+            Paragon_Mando_Desert,*,18000,4000
+            Paragon_Mando_Green,*,18000,4000
+            Paragon_Mando_Blue,*,18000,4000
+            Paragon_Mando_WL,*,18000,4000
+            Paragon_Mando_Fatigue,*,18000,4000
+            Paragon_Mando_Navy,*,18000,4000
+            Paragon_Mando_Black_WL,*,18000,4000
+
+            Paragon_Tac_H_Black,*,15000,3500
+            Paragon_Tac_H_Blue,*,15000,3500
+            Paragon_Tac_H_Desert,*,15000,3500
+            Paragon_Tac_H_Green,*,15000,3500
+            Paragon_Tac_H_Fatigue,*,15000,3500
+            Paragon_Tac_H_WL,*,15000,3500
+            Paragon_Tac_H_Navy,*,15000,3500
+            Paragon_Tac_H_Black_WL,*,15000,3500
+
+            <Category> Paragon Backpacks
+            Paragon_RaidBag_Black,*,80000,8000
+            Paragon_RaidBag_Blue,*,80000,8000
+            Paragon_RaidBag_Desert,*,80000,8000
+            Paragon_RaidBag_Green,*,80000,8000
+            Paragon_RaidBag_WL,*,80000,8000
+
+            Paragon_GunBag_Black,*,60000,6000
+            Paragon_GunBag_Blue,*,60000,6000
+            Paragon_GunBag_Desert,*,60000,6000
+            Paragon_GunBag_Green,*,60000,6000
+
+            Paragon_US_Military_Black,*,50000,5000
+            Paragon_US_Military_Blue,*,50000,5000
+            Paragon_US_Military_Desert,*,50000,5000
+            Paragon_US_Military_Green,*,50000,5000
+
+            Paragon_Rubicon_Black,*,50000,5000
+            Paragon_Rubicon_Blue,*,50000,5000
+            Paragon_Rubicon_Desert,*,50000,5000
+            Paragon_Rubicon_Green,*,50000,5000
+
+            Paragon_Duffle_Bag_Black,*,50000,5000
+            Paragon_Duffle_Bag_Blue,*,50000,5000
+            Paragon_Duffle_Bag_Desert,*,50000,5000
+            Paragon_Duffle_Bag_Green,*,50000,5000
+
+            Paragon_Deployment_Bag_Black,*,40000,4000
+            Paragon_Deployment_Bag_Desert,*,40000,4000
+            Paragon_Deployment_Bag_Desert_Camo,*,40000,4000
+            Paragon_Deployment_Bag_Green,*,40000,4000
+            Paragon_Deployment_Bag_WL,*,40000,4000
+
+            Paragon_Tactical_Bag_Black,*,30000,3000
+            Paragon_Tactical_Bag_Blue,*,30000,3000
+            Paragon_Tactical_Bag_Tan,*,30000,3000
+            Paragon_Tactical_Bag_Green,*,30000,3000
+
+            Paragon_Compact_Black,*,25000,2500
+            Paragon_Compact_Blue,*,25000,2500
+            Paragon_Compact_Desert,*,25000,2500
+            Paragon_Compact_Green,*,25000,2500
+            Paragon_Compact_Grey,*,25000,2500
+
+            Paragon_Rush_24_Bag_Black,*,15000,1500
+            Paragon_Rush_24_Bag_Blue,*,15000,1500
+            Paragon_Rush_24_Bag_Desert,*,15000,1500
+            Paragon_Rush_24_Bag_Green,*,15000,1500
